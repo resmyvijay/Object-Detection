@@ -10,5 +10,8 @@ We provide the path to Caffe prototxt file, path to Caffe model, path to the ima
 
 For example, to detect objects on the image01.jpg file in the Images folder, the command to be run is:
 
-''' python deep_learning_object_detection.py --prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel --image images/image01.jpg'''
+```
+python deep_learning_object_detection.py --prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel --image images/image01.jpg
+
+```
 
