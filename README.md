@@ -16,8 +16,7 @@ python deep_learning_object_detection.py --prototxt MobileNetSSD_deploy.prototxt
 ```
 ## Input
 
-![image01](https://user-images.githubusercontent.com/55789995/159118813-8f4dbf21-0608-4bfb-93c0-1e02f71c46f5.jpg)
-
+<img width="601" alt="image" src="https://user-images.githubusercontent.com/55789995/159118813-8f4dbf21-0608-4bfb-93c0-1e02f71c46f5.jpg">
 
 ## Output
 
