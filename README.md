@@ -14,4 +14,13 @@ For example, to detect objects on the image01.jpg file in the Images folder, the
 python deep_learning_object_detection.py --prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel --image images/image01.jpg
 
 ```
+## Input
+
+![image01](https://user-images.githubusercontent.com/55789995/159118813-8f4dbf21-0608-4bfb-93c0-1e02f71c46f5.jpg)
+
+
+## Output
+
+<img width="601" alt="image" src="https://user-images.githubusercontent.com/55789995/159118839-962926c9-b461-41d8-a734-a90ce16009f0.png">
+
 
